@@ -1,9 +1,10 @@
 This is the first commit in the new SimpleActivityRepo
 
-Developer 2 making critical changes.
 Developer 2 making more critical changes. The quick brown fox jumped over the lazy dogs.
 Current stock prices:
 MSFT 74.08
 BABA 171.61
 AMD 12.75
 MCZ 0.0
+
+These are additional changes from mgpoehl
