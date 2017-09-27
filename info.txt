@@ -1,4 +1,9 @@
 This is the first commit in the new SimpleActivityRepo
 
 Developer 2 making critical changes.
-Developer 2 making more critical changes.
+Developer 2 making more critical changes. The quick brown fox jumped over the lazy dogs.
+Current stock prices:
+MSFT 74.03
+BABA 171.70
+AMD 12.68
+MCZ 0.0
